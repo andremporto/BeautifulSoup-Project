@@ -1,4 +1,4 @@
-# Projeto de Web Scraping em Python
+# BeautifulSoup Python Project
 
 Este é um projeto de Web Scraping em Python que utiliza as bibliotecas BeautifulSoup, requests e regular expressions para extrair informações do site CoinMarketCap em tempo real.
 
